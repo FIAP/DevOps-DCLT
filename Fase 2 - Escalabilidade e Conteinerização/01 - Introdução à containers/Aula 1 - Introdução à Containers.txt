@@ -1,0 +1,8 @@
+Aula 1 - Introdução à Containers
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Introdução à containers
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537665&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537671
+
+Obs.: links exigem login na plataforma FIAP.

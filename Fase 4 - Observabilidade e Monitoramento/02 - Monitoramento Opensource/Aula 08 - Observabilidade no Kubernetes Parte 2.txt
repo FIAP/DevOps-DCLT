@@ -1,0 +1,8 @@
+Aula 08 - Observabilidade no Kubernetes Parte 2
+Fase 4 - Observabilidade e Monitoramento
+Capítulo: Monitoramento Opensource
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=601769&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=601777
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 04 - Rodando a Primeira Aplicação: Pods e Deployments
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Kubernetes básico
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537681&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537688
+
+Obs.: links exigem login na plataforma FIAP.

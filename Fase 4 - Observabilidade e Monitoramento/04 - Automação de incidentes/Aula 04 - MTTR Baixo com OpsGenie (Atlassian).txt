@@ -1,0 +1,8 @@
+Aula 04 - MTTR Baixo com OpsGenie (Atlassian)
+Fase 4 - Observabilidade e Monitoramento
+Capítulo: Automação de incidentes
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=601804&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=601811
+
+Obs.: links exigem login na plataforma FIAP.

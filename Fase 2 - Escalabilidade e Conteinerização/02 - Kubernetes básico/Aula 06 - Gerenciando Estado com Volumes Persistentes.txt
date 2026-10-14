@@ -1,0 +1,8 @@
+Aula 06 - Gerenciando Estado com Volumes Persistentes
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Kubernetes básico
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537683&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537690
+
+Obs.: links exigem login na plataforma FIAP.

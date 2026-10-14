@@ -1,0 +1,8 @@
+Aula 3 - Banco de dados com Microsserviços
+Fase 1 - Cultura Devops, Cloud e Arquiteturas
+Capítulo: Arquitetura de aplicações
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=520925&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=520929
+
+Obs.: links exigem login na plataforma FIAP.

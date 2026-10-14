@@ -1,0 +1,8 @@
+Aula 03 - APM e Instrumentação: Ganhando Visibilidade do Código à Produção
+Fase 4 - Observabilidade e Monitoramento
+Capítulo: Observabilidade e Monitoramento
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=601753&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=601758
+
+Obs.: links exigem login na plataforma FIAP.

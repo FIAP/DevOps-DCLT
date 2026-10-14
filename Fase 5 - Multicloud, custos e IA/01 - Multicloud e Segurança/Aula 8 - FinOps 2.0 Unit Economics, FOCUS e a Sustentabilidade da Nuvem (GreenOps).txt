@@ -1,0 +1,8 @@
+Aula 8 - FinOps 2.0: Unit Economics, FOCUS e a Sustentabilidade da Nuvem (GreenOps)
+Fase 5 - Multicloud, custos e IA
+Capítulo: Multicloud e Segurança
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614098&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614106
+
+Obs.: links exigem login na plataforma FIAP.

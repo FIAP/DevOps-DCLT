@@ -1,0 +1,8 @@
+Aula 03 - Entrega Contínua para Kubernetes
+Fase 3 - Automação e Segurança na Cloud
+Capítulo: CI/CD
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=550062&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=550069
+
+Obs.: links exigem login na plataforma FIAP.

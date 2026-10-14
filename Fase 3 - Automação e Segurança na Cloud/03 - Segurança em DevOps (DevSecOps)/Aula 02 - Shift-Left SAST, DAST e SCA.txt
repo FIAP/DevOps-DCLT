@@ -1,0 +1,8 @@
+Aula 02 - Shift-Left: SAST, DAST e SCA
+Fase 3 - Automação e Segurança na Cloud
+Capítulo: Segurança em DevOps (DevSecOps)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=550093&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=550100
+
+Obs.: links exigem login na plataforma FIAP.

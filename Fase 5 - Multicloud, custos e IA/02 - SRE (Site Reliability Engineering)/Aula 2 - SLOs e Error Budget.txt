@@ -1,0 +1,8 @@
+Aula 2 - SLOs e Error Budget
+Fase 5 - Multicloud, custos e IA
+Capítulo: SRE (Site Reliability Engineering)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614109&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614114
+
+Obs.: links exigem login na plataforma FIAP.

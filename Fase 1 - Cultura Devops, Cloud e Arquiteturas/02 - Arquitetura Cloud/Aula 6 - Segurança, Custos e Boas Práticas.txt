@@ -1,0 +1,8 @@
+Aula 6 - Segurança, Custos e Boas Práticas
+Fase 1 - Cultura Devops, Cloud e Arquiteturas
+Capítulo: Arquitetura Cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=520915&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=520921
+
+Obs.: links exigem login na plataforma FIAP.

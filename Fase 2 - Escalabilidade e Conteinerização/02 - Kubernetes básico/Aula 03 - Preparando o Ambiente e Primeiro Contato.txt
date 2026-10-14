@@ -1,0 +1,8 @@
+Aula 03 - Preparando o Ambiente e Primeiro Contato
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Kubernetes básico
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537680&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537687
+
+Obs.: links exigem login na plataforma FIAP.

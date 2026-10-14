@@ -1,0 +1,8 @@
+Aula 04 - Vulnerabilidades Críticas: OWASP e CVEs
+Fase 3 - Automação e Segurança na Cloud
+Capítulo: Segurança em DevOps (DevSecOps)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=550095&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=550102
+
+Obs.: links exigem login na plataforma FIAP.

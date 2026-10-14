@@ -1,0 +1,8 @@
+Aula 02 - Agendamento Avançado e Comportamento de Nodes
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Kubernetes Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537694&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537703
+
+Obs.: links exigem login na plataforma FIAP.

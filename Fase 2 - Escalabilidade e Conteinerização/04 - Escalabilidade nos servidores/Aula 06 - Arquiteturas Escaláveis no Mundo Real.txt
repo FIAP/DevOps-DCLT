@@ -1,0 +1,8 @@
+Aula 06 - Arquiteturas Escaláveis no Mundo Real
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Escalabilidade nos servidores
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537717&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537723
+
+Obs.: links exigem login na plataforma FIAP.

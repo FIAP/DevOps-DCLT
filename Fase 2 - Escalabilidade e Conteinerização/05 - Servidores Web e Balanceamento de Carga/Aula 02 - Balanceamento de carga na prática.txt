@@ -1,0 +1,8 @@
+Aula 02 - Balanceamento de carga na prática
+Fase 2 - Escalabilidade e Conteinerização
+Capítulo: Servidores Web e Balanceamento de Carga
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537726&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537731
+
+Obs.: links exigem login na plataforma FIAP.

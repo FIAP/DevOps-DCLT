@@ -1,0 +1,8 @@
+Aula 1 - Introdução a Monolito, Arquitetura em camadas e Microsserviços
+Fase 1 - Cultura Devops, Cloud e Arquiteturas
+Capítulo: Arquitetura de aplicações
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=520923&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=520927
+
+Obs.: links exigem login na plataforma FIAP.

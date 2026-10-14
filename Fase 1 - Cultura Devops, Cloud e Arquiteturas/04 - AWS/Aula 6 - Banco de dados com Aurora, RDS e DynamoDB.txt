@@ -1,0 +1,8 @@
+Aula 6 - Banco de dados com Aurora, RDS e DynamoDB
+Fase 1 - Cultura Devops, Cloud e Arquiteturas
+Capítulo: AWS
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=520937&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=520948
+
+Obs.: links exigem login na plataforma FIAP.

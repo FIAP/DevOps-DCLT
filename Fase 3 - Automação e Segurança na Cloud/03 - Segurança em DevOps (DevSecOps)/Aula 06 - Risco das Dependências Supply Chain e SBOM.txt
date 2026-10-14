@@ -1,0 +1,8 @@
+Aula 06 - Risco das Dependências: Supply Chain e SBOM
+Fase 3 - Automação e Segurança na Cloud
+Capítulo: Segurança em DevOps (DevSecOps)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=550097&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=550104
+
+Obs.: links exigem login na plataforma FIAP.

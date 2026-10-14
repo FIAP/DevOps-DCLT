@@ -1,0 +1,8 @@
+Aula 05 - Do Dado à Ação: Configurando Alertas Inteligentes e Notificações
+Fase 4 - Observabilidade e Monitoramento
+Capítulo: Observabilidade e Monitoramento
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=601755&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=601760
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 3 – Infraestrutura de IA – Padrões Arquiteturais e Terraform
+Fase 5 - Multicloud, custos e IA
+Capítulo: IT Service Management e AIOPs
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614134&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614142
+
+Obs.: links exigem login na plataforma FIAP.
