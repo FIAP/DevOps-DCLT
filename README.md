@@ -23,6 +23,7 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [03 - Kubernetes Avançado](./Fase%202%20-%20Escalabilidade%20e%20Conteineriza%C3%A7%C3%A3o/03%20-%20Kubernetes%20Avan%C3%A7ado)
 - [04 - Escalabilidade nos servidores](./Fase%202%20-%20Escalabilidade%20e%20Conteineriza%C3%A7%C3%A3o/04%20-%20Escalabilidade%20nos%20servidores)
 - [05 - Servidores Web e Balanceamento de Carga](./Fase%202%20-%20Escalabilidade%20e%20Conteineriza%C3%A7%C3%A3o/05%20-%20Servidores%20Web%20e%20Balanceamento%20de%20Carga)
+- [Escalabilidade e Tráfego na Cloud](./Fase%202%20-%20Escalabilidade%20e%20Conteineriza%C3%A7%C3%A3o/Escalabilidade%20e%20Tr%C3%A1fego%20na%20Cloud)
 
 ## [Fase 3 - Automação e Segurança na Cloud](./Fase%203%20-%20Automa%C3%A7%C3%A3o%20e%20Seguran%C3%A7a%20na%20Cloud)
 - [01 - CICD](./Fase%203%20-%20Automa%C3%A7%C3%A3o%20e%20Seguran%C3%A7a%20na%20Cloud/01%20-%20CICD)
